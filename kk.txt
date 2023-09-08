@@ -1,2 +1,6 @@
 Hi  How r u
 fine,good
+<<<<<<< HEAD
+=======
+what r u doing
+>>>>>>> 1cc8f3148c3226a458776ac3adfa1ff24f211836
